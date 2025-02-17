@@ -16,8 +16,10 @@
 Se valida que no hayan nombres vacios.
   ![Imagen de entrada](amigo2.png)
 
+
 Se valida que no se ingresen numeros.
   ![Imagen de entrada](amigo3.png)     
+
 
 Se valida que no se repitan los nombres de los amigos.
   ![Imagen de entrada](amigo4.png)
