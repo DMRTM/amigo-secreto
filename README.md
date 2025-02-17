@@ -17,9 +17,12 @@
   ![Imagen de entrada](amigo3.png)     
        c) Se valida que no se repitan los nombres de los amigos.
   ![Imagen de entrada](amigo4.png)
-       Cada una de las validaciones presenta una alerta mostrando el error.
+
+
+Cada una de las validaciones presenta una alerta mostrando el error.
     4) Una vez concluidas las validaciones, se procede a realizar el ingreso de los datos en el campo de texto y los confirma presionando el boton "Agregar".
     5) Cada nombre que se va ingresando se mostrara en la pantalla como una lista.
+    
     6) Cuando hayas registrado los nombres en tu lista, puedes presionar el boton de sortear amigo y esta accion limpiara la lista de nombres y realizara un sorteo aleatorio para mostrar el nombre de un amigo secreto.
       a) Cabe mencionar que durante el sorteo se validan ciertos detalles como ser:
         - Que no se hayan sorteado todos los nombres de la lista.
@@ -27,5 +30,6 @@
         - Que no se repita el valor del nombre en caso de que ya haya salido sorteado.
       
     Espero te diviertas!!     
+    
  
 
