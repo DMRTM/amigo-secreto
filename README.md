@@ -2,5 +2,6 @@
 
 - Estado del proyecto: Finalizado y en etapa de revision para calificacion.
 
-- Se agregaron los archivos index.html , app.js, style.css y la carpeta de assets
+- Se agregaron los archivos index.html , app.js, style.css y la carpeta de assets.
   
+- Para ejecutar el juego, debes cargar el archivo index.html desde tu navegador.
