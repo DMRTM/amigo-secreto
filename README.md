@@ -7,28 +7,29 @@
 - Para ejecutar el juego, debes cargar el archivo index.html desde tu navegador.
 
 - Una vez que se ha cargado en el navegador el archivo index.html podras tener acceso a la interface del usuario.
-  ![Imagen de entrada](amigo1.png)
+- ![Imagen de entrada](amigo1.png)
   
 - Antes de Jugar, quiero explicarte un poco sobre la funcionalidad del juego:
 1) El jugador debe ir agregando nombres en el campo de texto, no hay un limite de nombres a ingresar.
 2) El programa valida los datos que se estan ingresando, entre las validaciones principales podriamos mencionar:
 
 Se valida que no hayan nombres vacios.
-  ![Imagen de entrada](amigo2.png)
+![Imagen de error1](amigo2.png)
 
 
 Se valida que no se ingresen numeros.
-  ![Imagen de entrada](amigo3.png)     
+![Imagen de error2](amigo3.png)     
 
 
 Se valida que no se repitan los nombres de los amigos.
-  ![Imagen de entrada](amigo4.png)
+![Imagen de error3](amigo4.png)
 
 Cada una de las validaciones presenta una alerta mostrando el error.
-  3) Una vez concluidas las validaciones, se procede a realizar el ingreso de los datos en el campo de texto y los confirma presionando el boton "Agregar".
-  4) Cada nombre que se va ingresando se mostrara en la pantalla como una lista.
-    
-  5) Cuando hayas registrado los nombres en tu lista, puedes presionar el boton de sortear amigo y esta accion limpiara la lista de nombres y realizara
+3) Una vez concluidas las validaciones, se procede a realizar el ingreso de los datos en el campo de texto y los confirma presionando el boton "Agregar".
+4) Cada nombre que se va ingresando se mostrara en la pantalla como una lista.
+![Imagen de lista](amigo5.png) 
+
+5) Cuando hayas registrado los nombres en tu lista, puedes presionar el boton de sortear amigo y esta accion limpiara la lista de nombres y realizara
     un sorteo aleatorio para mostrar el nombre de un amigo secreto.
   
   Cabe mencionar que durante el sorteo se validan ciertos detalles como ser:
