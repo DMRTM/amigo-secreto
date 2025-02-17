@@ -31,9 +31,11 @@ Cada una de las validaciones presenta una alerta mostrando el error.
 
 5) Cuando hayas registrado los nombres en tu lista, puedes presionar el boton de sortear amigo y esta accion limpiara la lista de nombres y realizara
     un sorteo aleatorio para mostrar el nombre de un amigo secreto.
-  
+ ![Imagen del Sorteo](amigo7.png) 
 Cabe mencionar que durante el sorteo se validan ciertos detalles como ser:
 - Que no se hayan sorteado todos los nombres de la lista.
+![Imagen de error7](amigo8.png)
+  
 - Que hayan nombres en una lista para sortear.
 ![Imagen de error6](amigo6.png)  
 
