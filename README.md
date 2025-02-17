@@ -40,8 +40,9 @@ Cabe mencionar que durante el sorteo se validan ciertos detalles como ser:
 ![Imagen de error6](amigo6.png)  
 
 - Que no se repita el valor del nombre en caso de que ya haya salido sorteado.
-      
-    Espero te diviertas!!     
+![Imagen de error8](amigo9.png)
+     
+Espero te diviertas!!     
     
  
 
